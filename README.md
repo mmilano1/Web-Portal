@@ -7,6 +7,7 @@ Built using Spring Boot, Spring Security, MySQL Database, FreeMarker (Java Templ
 Functionalities Implemented:
 - User Log In ( Spring Security )
 - User Register
+- User Profile View ( View Details )
 - User Edit Details 
 - User Change Password (BCrypt Encryption)
 - User Upload Profile picture
